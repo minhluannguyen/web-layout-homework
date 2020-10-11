@@ -1,0 +1,20 @@
+.carousel-button{
+  border-radius: 100%;
+  background-color: black;
+  opacity: 100%;
+  width: 9%;
+  height: 15%;
+}
+
+.center-me {
+  line-height: 27%;
+  margin-top: 120px;
+}
+
+.carousel-control-next {
+  margin-right: -22px;
+}
+
+.carousel-control-prev {
+  margin-left: -22px;
+}
